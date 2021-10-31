@@ -1,0 +1,6 @@
+C:\Users\afonso.feliciano\Desktop\Integration Services\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dacpac
+C:\Users\afonso.feliciano\Desktop\Integration Services\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dll
+C:\Users\afonso.feliciano\Desktop\Integration Services\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.pdb
+C:\Users\afonso.feliciano\Desktop\Integration Services\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.dll
+C:\Users\afonso.feliciano\Desktop\Integration Services\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.pdb
+C:\Users\afonso.feliciano\Desktop\Integration Services\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.sqlprojAssemblyReference.cache

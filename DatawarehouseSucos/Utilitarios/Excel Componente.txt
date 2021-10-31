@@ -1,0 +1,5 @@
+Realizar o download do componente Microsoft Access Database Engine na versão 32 bits.
+
+
+Versão 2007 - http://www.microsoft.com/en-us/download/confirmation.aspx?id=23734
+Versão 2010 - https://www.microsoft.com/en-us/download/confirmation.aspx?id=13255
