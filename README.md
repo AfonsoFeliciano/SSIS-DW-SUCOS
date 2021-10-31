@@ -9,15 +9,15 @@ https://www.alura.com.br/curso-online-business-intelligence-sql-server-e-integra
 
 A versão utilizada do Visual Studio e Data Tools, pode ser visualizada abaixo. 
 
-![Screenshot](imgs\Screenshot_1.png)
+![Screenshot](imgs/Screenshot_1.png)
 
 O modelo de DW proposto, consiste em modelos Star Schema e Snowflake para atender da melhor maneira possível as necessidades propostas no desafio destes treinamentos. 
 
-Start Schema
-![Screenshot](imgs\Screenshot_2.png)
+Star Schema
+![Screenshot](imgs/Screenshot_2.png)
 
 
 Snowflake
-![Screenshot](imgs\Screenshot_3.png)
+![Screenshot](imgs/Screenshot_3.png)
 
 
