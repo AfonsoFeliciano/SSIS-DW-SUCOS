@@ -14,9 +14,11 @@ A versão utilizada do Visual Studio e Data Tools, pode ser visualizada abaixo.
 O modelo de DW proposto, consiste em modelos Star Schema e Snowflake para atender da melhor maneira possível as necessidades propostas no desafio destes treinamentos. 
 
 <p align="center">Star Schema</p> 
+
 ![Screenshot](imgs/Screenshot_2.png)
 
 <p align="center">Snowflake</p> 
+
 ![Screenshot](imgs/Screenshot_3.png)
 
 Após a definição dos modelos, objetivos, resoluções, é iniciado então a criação das tabelas utilizando um projeto de banco de dados no visual studio. Desse modo, torna-se possível realizar as criações de todas as tabelas em um banco de dados SQL conforme imagem abaixo.
